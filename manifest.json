@@ -1,0 +1,16 @@
+{
+    "name":"Portfolio",
+    "short_name":"portfolio",
+    "start_url":"/index.html",
+    "background_color":"#FFE9D2",
+    "display":"standalone",
+    "theme_color":"#FFE9D2",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/144x144.png",
+            "type":"image/png",
+            "sizes":"144x144"
+        }
+    ]
+}
